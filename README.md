@@ -18,6 +18,7 @@ This script will send you an email when the price for specific items you followe
 	5. Your_Price (change to price what you want)
 	6. Your_User_Agent (change to your user agent)
 	7. Subjent and body (You can change mail's body and title if you want)
+	8. İnstall libraries
 
 
 After installed required, you can use it by
