@@ -17,7 +17,7 @@ This script will send you an email when the price for specific items you followe
 	4. Amazon_item_link (change to amazon link to your target item is)
 	5. Your_Price (change to price what you want)
 	6. Your_User_Agent (change to your user agent)
-	7. Subjent and body (You can change mail's body and title if you want)
+	7. Subject and body (You can change mail's body and title if you want)
 	8. Install libraries
 
 
